@@ -9,12 +9,12 @@ A random password generator is a tool or program that generates a unique, strong
 Using a random password generator is highly recommended for creating secure passwords, as manually creating passwords may often result in predictable or easily guessable combinations. In addition, it is advisable to use a different password for each online account or service to minimize the risk of compromising multiple accounts if a password is compromised.
 
 ## Deployment Link
-https://juliobermudez.github.io/Portfolio/
+https://juliobermudez.github.io/Password_Generator/
 
 👆Click Here 👆
 
 ## Usage
-https://juliobermudez.github.io/Password_Generator/
+![Password_Generator](./assets/images/03-javascript-homework-demo.png)
 
 ## Instalation
 
