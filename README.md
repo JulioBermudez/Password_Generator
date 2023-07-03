@@ -14,7 +14,7 @@ https://juliobermudez.github.io/Portfolio/
 👆Click Here 👆
 
 ## Usage
-![Password_Generator](/assets/images/03-javascript-homework-demo.png)
+https://juliobermudez.github.io/Password_Generator/
 
 ## Instalation
 
