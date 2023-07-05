@@ -16,7 +16,7 @@ function generatePassword() {
 //prompt asking how many characters do i need to the password
 var passwordLenght = prompt("How many characters do you want in your passord?");
 if (passwordLenght < 8 || passwordLenght > 128) {
-  alert("Please enter a number between 9 and 128");
+  alert("Please enter a number between 8 and 128");
   return;
 }
 
@@ -53,6 +53,10 @@ for (let i = 0; i < passwordLenght; i++) {
 //variable that print the result of the random password
 var passwordText = document.querySelector("#password");
 passwordText.value = randomPassword;
+
+if (allCharacters = []) {
+  passwordText.value = "Please Try again";
+}
 
 }
 
